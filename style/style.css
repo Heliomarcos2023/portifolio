@@ -166,6 +166,10 @@ span {
     
 }
 
+.cabecalho__menu__link {
+    font-size: 1em;
+}
+
 .apresentacao-potifolio{
     flex-direction: column-reverse;
     padding: 20% 2%;
