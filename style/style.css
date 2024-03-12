@@ -74,7 +74,7 @@ h1 {
 
 .apresentacao-potifolio__conteudo{
     width: 50%;
-    display: flex;
+    display: grid;
     flex-direction: column;
     gap: 5px;
     margin: 5em;
