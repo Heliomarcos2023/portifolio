@@ -178,6 +178,7 @@ span {
  .apresentacao__imagens{
      width: 80%;
      margin: 0;
+     text-align: center;
 }
 
 .apresentacao-potifolio__conteudo{
