@@ -32,6 +32,7 @@ h1 {
 .cabecalho{
     background-color: var(--cor-terciaria) ;
     color: var(--cor-primaria);
+    position: fixed;
     padding: 2% 10%;
     left:0;
     width: 100%;
