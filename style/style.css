@@ -33,7 +33,8 @@ h1 {
     background-color: var(--cor-terciaria) ;
     color: var(--cor-primaria);
     padding: 0% 0% 0% 10%;
-    left:0
+    left:0;
+    width: 100%;
     
    
 }
