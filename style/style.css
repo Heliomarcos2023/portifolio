@@ -160,8 +160,10 @@ span {
     padding: 5%;
 }
 
-.cabecalho__menu{
-    justify-content: center;
+.cabecalho__menu {
+    display: inline-flex;
+    gap: 30px;
+    
 }
 
 .apresentacao-potifolio{
