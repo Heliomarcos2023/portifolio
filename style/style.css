@@ -180,7 +180,8 @@ span {
 }
 
 .apresentacao-potifolio__conteudo{
-    width: auto;
+    width: 150%;
+    margin: 0em 10em;
 }
 }
 
