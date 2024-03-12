@@ -184,6 +184,17 @@ span {
     width: 150%;
     margin: 0em 1em;
 }
+
+.apresentacao-potifolio__botoes{
+    display: flex;
+    margin: 0.5em;
+}
+
+.apresentacao-potifolio__botoeslink {
+    display: inline-block;
+    padding: 1%;
+    font-size: 1.5em;
+}
 }
 
 
