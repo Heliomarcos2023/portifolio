@@ -148,6 +148,7 @@ span {
 }
 .apresentacao__imagens{
     width: 30%;
+    align-content: center;
 }
 .apresentacao__imgcurriculo{
     width: 30%;
