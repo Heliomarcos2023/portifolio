@@ -42,7 +42,7 @@ h1 {
 
 .cabecalho__menu {
     display: flex;
-    gap: 80px;
+    gap: 60px;
     width: 100%;
     
 }
